@@ -1,0 +1,2 @@
+export const SET_IS_DRAG_DISABLE = "SET_IS_DRAG_DISABLE";
+export const SET_IS_MENU_OPEN = "SET_IS_MENU_OPEN";

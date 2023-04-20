@@ -1,8 +1,33 @@
-# Getting Started with Create React App
+# React Desktop
+
+React desktop style app including :
+
+- Draggable frame
+- Resizable frame
+- Window management
+- Embedded browser
+- Text viewer
+- Image viewer
+
+## Links
+
+Demo : [React desktop live](https://geo-tp.github.io/React-Django-AI)
+
+Design : [Created design](https://geo-tp.github.io/React-Django-AI)
+
+## Screenshots
+
+![](presentation1.png)
+![](presentation2.png)
+![](presentation3.png)
+
+## Version
+
+Created with Node v17.9.1 and npm 8.11.0
+
+## Installation
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) TS template.
-
-## Available Scripts
 
 In the project directory, you can run:
 
