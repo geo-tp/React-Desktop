@@ -11,9 +11,9 @@ React desktop style app including :
 
 ## Links
 
-Demo : [React desktop live](https://geo-tp.github.io/React-Django-AI)
+Demo : [React desktop live](https://geo-tp.github.io/React-Desktop)
 
-Design : [Created design](https://geo-tp.github.io/React-Django-AI)
+Design : [Created design](https://www.figma.com/file/kjvaXB1CABo6gfut29uhDu/BrowserOS?node-id=0%3A1&t=mjOFN97Gyhh3vrCX-1)
 
 ## Screenshots
 
