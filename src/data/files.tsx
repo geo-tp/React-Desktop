@@ -122,15 +122,6 @@ export const files: FileType[] = [
   },
 
   {
-    id: 5,
-    name: "image_random4.jpeg",
-    type: FileTypeEnum.Image,
-    content: Img2,
-    parent: "Desktop",
-    selected: false,
-  },
-
-  {
     id: 6,
     name: "image_random3.jpeg",
     type: FileTypeEnum.Image,

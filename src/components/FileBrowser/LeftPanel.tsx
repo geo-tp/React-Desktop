@@ -7,7 +7,7 @@ export const LeftPanel = (props: { files: FileType[] }) => {
     <LeftPanelStyle>
       <h3>Recents</h3>
       <ul>
-        {props.files.map((file) => (
+        {props.files.slice(0, 10).map((file) => (
           <li key={`recent-${file.name}-${file.id}`}>
             {file.type !== FileTypeEnum.Firefox &&
               file.type !== FileTypeEnum.Folder && (

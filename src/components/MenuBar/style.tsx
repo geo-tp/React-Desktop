@@ -85,6 +85,10 @@ export const WindowHandlerStyle = styled.div`
   align-items: center;
   width: calc(100% - 310px);
   overflow-x: scroll;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
 `;
 
 export const WindowElementStyle = styled.div`

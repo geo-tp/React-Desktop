@@ -7,7 +7,7 @@ export const framesData: FrameType[] = [
     fileId: 1,
 
     width: "1010px",
-    height: "750px",
+    height: "550px",
     top: 100,
     left: 280,
 
